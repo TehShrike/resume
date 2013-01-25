@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Josh Duff</title>
+</head>
+<link href="style.css" rel="stylesheet" media="all">
+<body>
+	<a href="https://github.com/tehshrike/resume"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png" alt="Fork me on GitHub"></a>
+	<div id="content">
+	</div>
+</body>
+<script src="superagent.js"></script>
+<script src="Markdown.Converter.js"></script>
+<script>
+
+var converter = new Markdown.Converter()
+
+superagent.get('readme.md').end(function(res) {
+	document.getElementById('content').innerHTML = converter.makeHtml(res.text)
+})
+</script>
+</html>
