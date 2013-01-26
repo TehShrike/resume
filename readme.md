@@ -1,18 +1,9 @@
-Josh Duff
------
-
-Support, ISoft Data Systems, 2005-2006
-=====
-* Handled all incoming support calls for a Windows-based application
-* Maintained and added to a suite of reports built with Crystal Reports and MySQL queries
-* Travelled to customer locations to perform installations and training
-
 Developer, ISoft Data Systems, 2006-present
-=====
+-----
 In roughly chronological order:
 
 * Performed maintenance and feature development for an inventory/point of sale application built with C++/MySQL
-* Wrote a minimal CRM for internal support use, using PHP and MySQL
+* Wrote a minimal CRM tool for internal support use, using PHP and MySQL
 * Wrote an AJAX-based clock-in system with a PHP/MySQL back-end
 * Worked with partner customers to develop an enterprise application, writing specifications and delivering features
 * Developed a push-based replication tool for MySQL databases
@@ -24,3 +15,22 @@ In roughly chronological order:
 * Developed a web application for enterprise inventory software, for use on mobile hardware with barcode scanners
 * Developed a client framework in JavaScript capable of running in Windows CE's IE6, and Safari Mobile
 * Developed API frameworks for the server-side in both PHP and JavaScript (using node.js)
+
+Support, ISoft Data Systems, 2005-2006
+-----
+* Handled all incoming support calls for a Windows-based application
+* Maintained and added to a suite of reports built with Crystal Reports and MySQL queries
+* Travelled to customer locations to perform installations and training
+
+Familiar Technologies
+-----
+Delivered products/features on or with:
+
+* MySQL
+* SQLite
+* PHP
+* C++
+* MFC
+* JavaScript
+* node.js
+* Crystal Reports

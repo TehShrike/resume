@@ -6,7 +6,15 @@
 <link href="style.css" rel="stylesheet" media="all">
 <body>
 	<a href="https://github.com/tehshrike/resume"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png" alt="Fork me on GitHub"></a>
-	<div id="content">
+
+	<div id="content-holder">
+		<ul class="menu">
+			<li class="menu-item" file="natural.md">Natural language</li>
+			<li class="menu-item" file="readme.md">Bullet point</li>
+		</ul>
+		<h1>Josh Duff</h1>
+		<div id="email">&#109;&#101;&#064;&#074;&#111;&#115;&#104;&#068;&#117;&#102;&#102;&#046;&#099;&#111;&#109;</div>
+		<div id="content"></div>
 	</div>
 </body>
 <script src="superagent.js"></script>
@@ -15,8 +23,19 @@
 
 var converter = new Markdown.Converter()
 
-superagent.get('readme.md').end(function(res) {
-	document.getElementById('content').innerHTML = converter.makeHtml(res.text)
+var display = function(file_name) {
+	superagent.get(file_name).end(function(res) {
+		document.getElementById('content').innerHTML = converter.makeHtml(res.text)
+	})
+}
+
+display('readme.md')
+
+Array.prototype.forEach.call(document.querySelectorAll('li.menu-item'), function(li) {
+	li.onclick = function() {
+		display(li.attributes.file.value)
+	}
 })
+
 </script>
 </html>
