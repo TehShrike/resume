@@ -1,3 +1,9 @@
+Philosophy
+-----
+I value simple code, and building tools that let me release new features steadily.
+
+I want to keep learning new things, and I want to make something useful.
+
 Developer, ISoft Data Systems, 2006-present
 -----
 In roughly chronological order:
