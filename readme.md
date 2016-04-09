@@ -1,11 +1,22 @@
 Philosophy
 -----
-I value simple code, and building tools that let me release new features steadily.
+
+I value simple code and coworkers who care about quality.
 
 I want to keep learning new things, and I want to make something useful.
 
-Developer, ISoft Data Systems, 2006-present
+Developer, eDataSource, 2013-present
 -----
+
+* With a team of 3-4 developers:
+  * Built and maintained a distributed Java application that processes millions of emails per day, indexing the commercial email campaigns and storing the results in MySQL and ElasticSearch
+  * Developed a client-facing AngularJS application [Analyst Nextgen](http://www.edatasource.com/products-services/eds-analyst/), used by email marketers to determine the effectiveness of their marketing campaigns and diagnose email deliverability problems
+  * Maintained [Boxbe](https://www.boxbe.com/), a spam-filtering service used by 1M+ users
+* Built the internal admin site used to manage the domain/brand/company taxonomy, and administrate client user accounts
+
+Developer, ISoft Data Systems, 2006-2013
+-----
+
 In roughly chronological order:
 
 * Performed maintenance and feature development for an inventory/point of sale application built with C++/MySQL
@@ -28,6 +39,30 @@ Support, ISoft Data Systems, 2005-2006
 * Maintained and added to a suite of reports built with Crystal Reports and MySQL queries
 * Travelled to customer locations to perform installations and training
 
+Open source work
+-----
+
+### Larger projects
+
+* [Noddity](https://github.com/TehShrike/noddity), a client-side wiki/blog framework
+* [abstract-state-router](https://github.com/TehShrike/abstract-state-router), a framework-agnostic nested state router for web applications
+* [communalchecklist.com](https://github.com/TehShrike/communal-checklist), a low-friction gift registry/checklist
+
+### An arbitrary selection of my smaller libraries
+
+* [sql-concat](https://github.com/TehShrike/sql-concat), for building SQL statements programmatically
+* [financial-arithmeticator](https://github.com/TehShrike/financial-arithmeticator), for arbitrary-precision arithmetic on financial values
+* [combine-arrays](https://www.npmjs.com/package/combine-arrays), a pattern I found myself writing over and over in everyday code
+* [and many more](https://www.npmjs.com/~tehshrike)
+
+### Blog
+
+I have written a few posts related to my software projects:
+
+* [Writing Noddity](http://joshduff.com/#!/post/2014-11-22-noddity.md)
+* [Why your webapp needs a state-based router](http://joshduff.com/#!/post/2015-06-why-you-need-a-state-router.md)
+* [Side project post-partum: Communal Checklist](http://joshduff.com/#!/post/2015-09-communal-checklist.md)
+
 Familiar Technologies
 -----
 Delivered products/features on or with:
@@ -40,3 +75,7 @@ Delivered products/features on or with:
 * JavaScript
 * node.js
 * Crystal Reports
+* Java
+* AngularJS
+* ElasticSearch
+* Redis
