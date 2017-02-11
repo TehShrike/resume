@@ -21,9 +21,9 @@ Between contributions to our inventory/point-of-sale Windows app ITrack Pro, I t
 
 We developed a need to replicate data from our customer's on-site MySQL servers to our public server, so I wrote a push-based replication tool to read MySQL's binary log files.  Not long afterwards, I joined the other two developers in spending more time with our enterprise application (and the customers we were writing it for) as it barrelled towards completion in 2008.
 
-After our big new product was out the door, I transitioned mostly back to our bread-and-butter application still in use by hundreds of customers, taking over primary development responsibilities.  I [fixed many bugs and added many features](http://bugzitsu.isoftdata.com/buglist.cgi?resolution=FIXED&emailtype1=substring&query_format=advanced&emailassigned_to1=1&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=CLOSED&email1=jduff%40isoftdata.com).
+After our big new product was out the door, I transitioned mostly back to our bread-and-butter application still in use by hundreds of customers, taking over primary development responsibilities.  I fixed many bugs and added many features.
 
-Developing that product was my life for several years—in that period I also became the unofficial curator of our documentation wiki, with [over a thousand edits](http://wikido.isoftdata.com/index.php?title=Special:Contributions&limit=200&target=Duff), including [codifying some of our internal practices](http://wikido.isoftdata.com/index.php/Things_ISoft_employees_should_know) and writing guidelines to aid newer developers in avoiding common issues.
+Developing that product was my life for several years—in that period I also became the unofficial curator of our documentation wiki, with [over a thousand edits](http://wikido.isoftdata.com/index.php?title=Special:Contributions&limit=200&target=Duff), including codifying some of our internal practices and writing guidelines to aid newer developers in avoiding common issues.
 
 I wrote other small tools as the need became apparent, including an XMPP chatbot using [gloox](http://www.camaya.net/gloox/) for our internal chat rooms, and an application that would let our support team run queries against Quickbooks' data files.
 
