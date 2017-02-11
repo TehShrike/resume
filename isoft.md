@@ -1,4 +1,7 @@
-Support, ISoft Data Systems, 2005-2006
+ISoft Data Systems
+=====
+
+Support, 2005-2006
 -----
 I was hired part-time as the sole support person for a local software company. At the time, there were about 3 full-time employees and 5 other part-time employees.
 
@@ -12,7 +15,7 @@ Other developers were always busy working on the never-ending list of new featur
 
 After about a semester of such part-time work, summer break let me work full time.  Since another support fellow had joined on that year, my summer project was to rewrite the screen used to export data to Quickbooks, fixing bugs and making it crash less.  From about that point on, I was a sort of "second-tier" support, and spent most of my time writing code and learning from the other developers.
 
-Developer, ISoft Data Systems, 2006-present
+Developer, 2006-2013
 -----
 Between contributions to our inventory/point-of-sale Windows app ITrack Pro, I travelled to new customer locations to do installations and training, and started getting involved in some web development.  I made acquaintences with PHP, and wrote a time-tracking app, and a simple CRM which were used internally.
 
