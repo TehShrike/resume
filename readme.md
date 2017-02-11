@@ -1,20 +1,26 @@
-Philosophy
+
+I enjoy writing business software with an involved schema and interface.  The trick is to keep code [simple](https://www.infoq.com/presentations/Simple-Made-Easy), descriptive, and decoupled enough that you can continue to work with it over time.
+
+If you want software with reliable new features and fixes delivered slowly but surely, email <me@JoshDuff.com>.
+
+Previous employers in software
+=====
+
+Cake (consumer software), 2016-2017
 -----
 
-I value simple code and coworkers who care about quality.
+With two other developers, added features and fixed bugs to get the node.js/Express/React app [Cake](https://cake.co/) closer to shipping.
 
-I want to keep learning new things, and I want to make something useful.
-
-Developer, eDataSource, 2013-present
+eDataSource (email marketing industry), 2013-2016
 -----
 
 * With a team of 3-4 developers:
   * Built and maintained a distributed Java application that processes millions of emails per day, indexing the commercial email campaigns and storing the results in MySQL and ElasticSearch
-  * Developed a client-facing AngularJS application [Analyst Nextgen](http://www.edatasource.com/products-services/eds-analyst/), used by email marketers to determine the effectiveness of their marketing campaigns and diagnose email deliverability problems
+  * Developed a client-facing AngularJS application [Email Analyst](http://www.edatasource.com/competitive-tracker/), used by email marketers to determine the effectiveness of their marketing campaigns and diagnose email deliverability problems
   * Maintained [Boxbe](https://www.boxbe.com/), a spam-filtering service used by 1M+ users
 * Built the internal admin site used to manage the domain/brand/company taxonomy, and administrate client user accounts
 
-Developer, ISoft Data Systems, 2006-2013
+ISoft Data Systems (car parts and heavy truck parts industries, 2005-2013
 -----
 
 In roughly chronological order:
@@ -33,49 +39,59 @@ In roughly chronological order:
 * Developed a client framework in JavaScript capable of running in Windows CE's IE6, and Safari Mobile
 * Developed API frameworks for the server-side in both PHP and JavaScript (using node.js)
 
-Support, ISoft Data Systems, 2005-2006
------
+As the sole phone support tech during my first year at ISoft:
+
 * Handled all incoming support calls for a Windows-based application
 * Maintained and added to a suite of reports built with Crystal Reports and MySQL queries
 * Travelled to customer locations to perform installations and training
 
-Open source work
------
+For a long-form description of my time at ISoft, [click here](./isoft.md).
 
-### Larger projects
+Open source work
+=====
+
+## Larger projects
 
 * [Noddity](https://github.com/TehShrike/noddity), a client-side wiki/blog framework
 * [abstract-state-router](https://github.com/TehShrike/abstract-state-router), a framework-agnostic nested state router for web applications
+* [susdsearch.com](https://github.com/TehShrike/susd-search-site), an improved search site for some of my favorite content creators that scrapes their main site
 * [communalchecklist.com](https://github.com/TehShrike/communal-checklist), a low-friction gift registry/checklist
 
-### An arbitrary selection of my smaller libraries
+## An arbitrary selection of my smaller libraries
 
 * [sql-concat](https://github.com/TehShrike/sql-concat), for building SQL statements programmatically
 * [financial-arithmeticator](https://github.com/TehShrike/financial-arithmeticator), for arbitrary-precision arithmetic on financial values
-* [combine-arrays](https://www.npmjs.com/package/combine-arrays), a pattern I found myself writing over and over in everyday code
-* [and many more](https://www.npmjs.com/~tehshrike)
+* [mannish](https://github.com/TehShrike/mannish), a mediator focused on reducing coupling between stateful modules in larger apps
 
-### Blog
+For a more complete list of libraries I've published, see [tehshrike.github.io](https://tehshrike.github.io/).
+
+## Blog
 
 I have written a few posts related to my software projects:
 
 * [Writing Noddity](http://joshduff.com/#!/post/2014-11-22-noddity.md)
 * [Why your webapp needs a state-based router](http://joshduff.com/#!/post/2015-06-why-you-need-a-state-router.md)
 * [Side project post-partum: Communal Checklist](http://joshduff.com/#!/post/2015-09-communal-checklist.md)
+* [Writing SQL for applications](http://joshduff.com/#!/post/2016-07-writing-sql.md)
 
 Familiar Technologies
------
+=====
+
 Delivered products/features on or with:
 
-* MySQL
-* SQLite
+* JavaScript
+	* node.js
+	* React
+	* Redux
+	* Express
+	* Koa
+	* AngularJS
+* Java
 * PHP
 * C++
-* MFC
-* JavaScript
-* node.js
-* Crystal Reports
-* Java
-* AngularJS
+* MySQL
+* SQLite
 * ElasticSearch
 * Redis
+
+I'm particularly interested in the chance to work with Clojure, Elm, Elixir, or other languages focused on simplicitly through pure functions.
