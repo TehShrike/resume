@@ -20,7 +20,7 @@ eDataSource (email marketing industry), 2013-2016
   * Maintained [Boxbe](https://www.boxbe.com/), a spam-filtering service used by 1M+ users
 * Built the internal admin site used to manage the domain/brand/company taxonomy, and administrate client user accounts
 
-ISoft Data Systems (car parts and heavy truck parts industries, 2005-2013
+ISoft Data Systems (car parts and heavy truck parts industries), 2005-2013
 -----
 
 In roughly chronological order:
