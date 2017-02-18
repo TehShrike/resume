@@ -1,7 +1,10 @@
+I've spent more than a decade spent turning customer needs into technical specs and delivering software slowly and steadily over many small iterations/deliverables.  I've delivered software solutions as an individual, and as a member of small teams.
 
-I enjoy writing business software with an involved schema and interface.  The trick is to keep code [simple](https://www.infoq.com/presentations/Simple-Made-Easy), descriptive, and decoupled enough that you can continue to work with it over time.
+I have worked with various database systems, but spent the most time with MySQL.  I have worked on desktop and web applications, but mostly web applications since ~2010.
 
-If you want software with reliable new features and fixes delivered slowly but surely, email <me@JoshDuff.com>.
+I have experience with large web frameworks, but am comfortable building a toolbox out of composable libraries.
+
+There are many examples of my open source code linked below if you are interested in seeing my coding style or skill.  If you want to chat about hiring, email <me@JoshDuff.com>.
 
 Previous employers in software
 =====
