@@ -1,4 +1,4 @@
-I've spent more than a decade spent turning customer needs into technical specs and delivering software slowly and steadily over many small iterations/deliverables.  I've delivered software solutions as an individual, and as a member of small teams.
+I've spent more than a decade turning customer needs into technical specs and delivering software slowly and steadily over many small iterations/deliverables.  I've delivered software solutions as an individual, and as a member of small teams.
 
 I have worked with various database systems, but spent the most time with MySQL.  I have worked on desktop and web applications, but mostly web applications since ~2010.
 
