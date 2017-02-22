@@ -1,3 +1,6 @@
+Josh Duff
+=====
+
 I've spent more than a decade turning customer needs into technical specs and delivering software slowly and steadily over many small iterations/deliverables.  I've delivered software solutions as an individual, and as a member of small teams.
 
 I have worked with various database systems, but spent the most time with MySQL.  I have worked on desktop and web applications, but mostly web applications since ~2010.
@@ -48,7 +51,7 @@ As the sole phone support tech during my first year at ISoft:
 * Maintained and added to a suite of reports built with Crystal Reports and MySQL queries
 * Travelled to customer locations to perform installations and training
 
-For a long-form description of my time at ISoft, [click here](./isoft.md).
+For a long-form description of my time at ISoft, [click here](//tehshrike.github.io/resume/isoft.html).
 
 Open source work
 =====

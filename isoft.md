@@ -1,3 +1,5 @@
+[« Back](//tehshrike.github.io/resume/)
+
 ISoft Data Systems
 =====
 

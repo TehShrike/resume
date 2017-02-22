@@ -1,0 +1,21 @@
+{
+  "name": "resume",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TehShrike/resume.git"
+  },
+  "author": "TehShrike",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/TehShrike/resume/issues"
+  },
+  "homepage": "https://github.com/TehShrike/resume#readme",
+  "dependencies": {
+    "remarkable": "1.7.1"
+  }
+}
