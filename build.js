@@ -8,7 +8,7 @@ function read(file) {
 const htmlTemplate = read('./template.html')
 
 function build(name, outputName = name) {
-	const contentHtml = new Remarkable().render(read(`./${name}.md`))
+	const contentHtml = new Remarkable({ html: true }).render(read(`./${name}.md`))
 
 	fs.writeFileSync(`./${outputName}.html`, htmlTemplate.replace('<!--content-->', contentHtml))
 }

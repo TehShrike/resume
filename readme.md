@@ -1,24 +1,21 @@
 Josh Duff
 =====
 
+<me@JoshDuff.com>
+
 I've spent more than a decade turning customer needs into technical specs and delivering software slowly and steadily over many small iterations/deliverables.  I've delivered software solutions as an individual, and as a member of small teams.
 
 I have worked with various database systems, but spent the most time with MySQL.  I have worked on desktop and web applications, but mostly web applications since ~2010.
 
 I have experience with large web frameworks, but am comfortable building a toolbox out of composable libraries.
 
-There are many examples of my open source code linked below if you are interested in seeing my coding style or skill.  If you want to chat about hiring, email <me@JoshDuff.com>.
+## Previous employers
 
-Previous employers in software
-=====
-
-Cake (consumer software), 2016-2017
------
+### Cake (consumer software), 2016-2017 (remote)
 
 With two other developers, added features and fixed bugs to get the node.js/Express/React app [Cake](https://cake.co/) closer to shipping.
 
-eDataSource (email marketing industry), 2013-2016
------
+### eDataSource (email marketing industry), 2013-2016 (remote)
 
 * With a team of 3-4 developers:
   * Built and maintained a distributed Java application that processes millions of emails per day, indexing the commercial email campaigns and storing the results in MySQL and ElasticSearch
@@ -26,8 +23,7 @@ eDataSource (email marketing industry), 2013-2016
   * Maintained [Boxbe](https://www.boxbe.com/), a spam-filtering service used by 1M+ users
 * Built the internal admin site used to manage the domain/brand/company taxonomy, and administrate client user accounts
 
-ISoft Data Systems (car parts and heavy truck parts industries), 2005-2013
------
+### ISoft Data Systems (car parts and heavy truck parts industries), 2005-2013
 
 In roughly chronological order:
 
@@ -53,17 +49,18 @@ As the sole phone support tech during my first year at ISoft:
 
 For a long-form description of my time at ISoft, [click here](//tehshrike.github.io/resume/isoft.html).
 
-Open source work
-=====
+***
 
-## Larger projects
+## Open source
+
+### Larger projects
 
 * [Noddity](https://github.com/TehShrike/noddity), a client-side wiki/blog framework
 * [abstract-state-router](https://github.com/TehShrike/abstract-state-router), a framework-agnostic nested state router for web applications
 * [susdsearch.com](https://github.com/TehShrike/susd-search-site), an improved search site for some of my favorite content creators that scrapes their main site
 * [communalchecklist.com](https://github.com/TehShrike/communal-checklist), a low-friction gift registry/checklist
 
-## An arbitrary selection of my smaller libraries
+### An arbitrary selection of my smaller libraries
 
 * [sql-concat](https://github.com/TehShrike/sql-concat), for building SQL statements programmatically
 * [financial-arithmeticator](https://github.com/TehShrike/financial-arithmeticator), for arbitrary-precision arithmetic on financial values
@@ -71,7 +68,7 @@ Open source work
 
 For a more complete list of libraries I've published, see [tehshrike.github.io](https://tehshrike.github.io/).
 
-## Blog
+### Blog
 
 I have written a few posts related to my software projects:
 
@@ -80,8 +77,9 @@ I have written a few posts related to my software projects:
 * [Side project post-partum: Communal Checklist](http://joshduff.com/#!/post/2015-09-communal-checklist.md)
 * [Writing SQL for applications](http://joshduff.com/#!/post/2016-07-writing-sql.md)
 
-Familiar Technologies
-=====
+***
+
+## Familiar Technologies
 
 Delivered products/features on or with:
 
