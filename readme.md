@@ -81,15 +81,15 @@ I have written a few posts related to my software projects:
 
 ## Familiar Technologies
 
-Delivered products/features on or with:
+Delivered products/features using:
 
 * JavaScript
 	* node.js
+	* AngularJS
 	* React
 	* Redux
 	* Express
 	* Koa
-	* AngularJS
 * Java
 * PHP
 * C++
