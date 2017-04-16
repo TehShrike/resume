@@ -3,11 +3,11 @@ Josh Duff
 
 <me@JoshDuff.com>
 
-I've spent more than a decade turning customer needs into technical specs and delivering software slowly and steadily over many small iterations/deliverables.  I've delivered software solutions as an individual, and as a member of small teams.
+I've spent over a decade building desktop and web applications for various industries.  I turn customer needs into technical specs and deliver software slowly and steadily over many small iterations/deliverables.
 
-I have worked with various database systems, but spent the most time with MySQL.  I have worked on desktop and web applications, but mostly web applications since ~2010.
+I've delivered software solutions by myself, and as a member of small teams.
 
-I have experience with large web frameworks, but am comfortable building a toolbox out of composable libraries.
+I have experience with large web frameworks, but am comfortable building a toolbox out of composable libraries.  I have worked with various database systems, but spent the most time with MySQL.
 
 ## Previous employers
 
