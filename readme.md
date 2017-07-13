@@ -98,4 +98,4 @@ Delivered products/features using:
 * ElasticSearch
 * Redis
 
-I'm particularly interested in the chance to work with Clojure, Elm, Elixir, or other languages focused on simplicitly through pure functions.
+I'm particularly interested in the chance to work with Clojure, Elm, Elixir, or other languages focused on simplicity through pure functions.
