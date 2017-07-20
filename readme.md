@@ -1,7 +1,9 @@
 Josh Duff
 =====
 
-<me@JoshDuff.com>
+<p class="print-top-right">
+	<a href="mailto:me@JoshDuff.com">me@JoshDuff.com</a>
+</p>
 
 I've spent over a decade building desktop and web applications for various industries.  I turn customer needs into technical specs and deliver software slowly and steadily over many small iterations/deliverables.
 
@@ -47,7 +49,9 @@ As the sole phone support tech during my first year at ISoft:
 * Maintained and added to a suite of reports built with Crystal Reports and MySQL queries
 * Travelled to customer locations to perform installations and training
 
-For a long-form description of my time at ISoft, [click here](//tehshrike.github.io/resume/isoft.html).
+<div class="no-print">
+	For a long-form description of my time at ISoft, <a href="//tehshrike.github.io/resume/isoft.html">click here</a>.
+</div>
 
 ***
 
@@ -57,8 +61,10 @@ For a long-form description of my time at ISoft, [click here](//tehshrike.github
 
 * [Noddity](https://github.com/TehShrike/noddity), a client-side wiki/blog framework
 * [abstract-state-router](https://github.com/TehShrike/abstract-state-router), a framework-agnostic nested state router for web applications
-* [susdsearch.com](https://github.com/TehShrike/susd-search-site), an improved search site for some of my favorite content creators that scrapes their main site
+* [susdsearch.com](https://github.com/TehShrike/susd-search-site), an improved search site for some of my favorite reviewers
 * [communalchecklist.com](https://github.com/TehShrike/communal-checklist), a low-friction gift registry/checklist
+
+<div class="no-print">
 
 ### An arbitrary selection of my smaller libraries
 
@@ -77,7 +83,17 @@ I have written a few posts related to my software projects:
 * [Side project post-partum: Communal Checklist](http://joshduff.com/#!/post/2015-09-communal-checklist.md)
 * [Writing SQL for applications](http://joshduff.com/#!/post/2016-07-writing-sql.md)
 
-***
+</div>
+
+<div class="print-only">
+
+### Other
+
+- Over a hundred packages published to npm
+- Thousands of lines of code published under an open license ([tehshrike.github.io](https://tehshrike.github.io/))
+- Retrospectives of projects and explanation for tech problems at [joshduff.com](https://joshduff.com)
+
+</div>
 
 ## Familiar Technologies
 
@@ -98,4 +114,6 @@ Delivered products/features using:
 * ElasticSearch
 * Redis
 
-I'm particularly interested in the chance to work with Clojure, Elm, Elixir, or other languages focused on simplicity through pure functions.
+<p class="no-print">
+	I'm particularly interested in the chance to work with Clojure, Elm, Elixir, or other languages focused on simplicity through pure functions.
+</p>

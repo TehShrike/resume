@@ -1,4 +1,8 @@
+<div class="no-print">
+
 [« Back](//tehshrike.github.io/resume/)
+
+</div>
 
 ISoft Data Systems
 =====

@@ -2,24 +2,6 @@
 	display: none;
 }
 
-@media print {
-	.no-print {
-		display: none;
-	}
-	.print-only {
-		display: inherit;
-	}
-
-	hr {
-		visibility: hidden;
-	}
-}
-
-hr {
-	page-break-after: always;
-}
-
-
 /* Heavily stolen from http://pixyll.com/ */
 
 body {
@@ -87,8 +69,10 @@ blockquote { margin-top: 2rem; margin-bottom: 2rem; margin-left: 0; padding-left
 
 blockquote, blockquote p { font-size: 1.25rem; font-style: italic; }
 
-@media screen and (min-width: 32em) { html { font-size: 16px; }
-	blockquote { margin-left: 2rem; padding: 2rem; }
+@media screen and (min-width: 32em) {
+	html { font-size: 16px; }
+	blockquote { margin-left: 2rem; padding: 2rem;
+}
 @media screen and (min-width: 48em) { html { font-size: 18px; } }
 @media screen and (min-width: 64em) { html { font-size: 20px; } }
 @media screen and (min-width: 78em) { em img { max-width: 56rem; margin-left: -7em; } }
