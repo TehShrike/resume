@@ -9,7 +9,7 @@ I've spent over a decade building desktop and web applications for various indus
 
 I've delivered software solutions by myself, and as a member of small teams.
 
-I have experience with large web frameworks, but am comfortable building a toolbox out of composable libraries.  I have worked with various database systems, but spent the most time with MySQL.
+I have experience with large web frameworks, but am comfortable building a toolbox out of composable libraries.  I have worked with various database systems, but spend the most time with MySQL.
 
 ## Previous employers
 
