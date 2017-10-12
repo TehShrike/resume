@@ -78,10 +78,10 @@ For a more complete list of libraries I've published, see [tehshrike.github.io](
 
 I have written a few posts related to my software projects:
 
-* [Writing Noddity](http://joshduff.com/#!/post/2014-11-22-noddity.md)
-* [Why your webapp needs a state-based router](http://joshduff.com/#!/post/2015-06-why-you-need-a-state-router.md)
-* [Side project post-partum: Communal Checklist](http://joshduff.com/#!/post/2015-09-communal-checklist.md)
-* [Writing SQL for applications](http://joshduff.com/#!/post/2016-07-writing-sql.md)
+* [Writing Noddity](https://joshduff.com/2014-11-22-noddity.md)
+* [Why your webapp needs a state-based router](https://joshduff.com/2015-06-why-you-need-a-state-router.md)
+* [Side project post-partum: Communal Checklist](https://joshduff.com/2015-09-communal-checklist.md)
+* [Writing SQL for applications](https://joshduff.com/2016-07-writing-sql.md)
 
 </div>
 
