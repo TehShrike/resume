@@ -74,7 +74,7 @@ As the sole phone support tech during my first year at ISoft:
 
 For a more complete list of libraries I've published, see [tehshrike.github.io](https://tehshrike.github.io/).
 
-### Blog
+### Writings
 
 I have written a few posts related to my software projects:
 
