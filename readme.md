@@ -38,7 +38,7 @@ In roughly chronological order:
 * Codified standards for internal documentation in the company wiki, curating and maintaining all input
 * Developed an XMPP chatbot for use in company chat rooms using C++/Gloox
 * Developed an application for performing queries directly against Quickbooks company files
-* Developed a prototype for a PhoneGap-capable mobile version of parts search portal [HeavyTruckParts.net](HeavyTruckParts.net) with jQuery Mobile, PHP, TinyMVC
+* Developed a prototype for a PhoneGap-capable mobile version of parts search portal [HeavyTruckParts.net](https://www.heavytruckparts.net) with jQuery Mobile, PHP, TinyMVC
 * Developed a web application for enterprise inventory software, for use on mobile hardware with barcode scanners
 * Developed a client framework in JavaScript capable of running in Windows CE's IE6, and Safari Mobile
 * Developed API frameworks for the server-side in both PHP and JavaScript (using node.js)
