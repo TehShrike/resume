@@ -5,13 +5,15 @@ Josh Duff
 	<a href="mailto:me@JoshDuff.com">me@JoshDuff.com</a>
 </p>
 
-I've spent over a decade building desktop and web applications for various industries.  I turn customer needs into technical specs and deliver software slowly and steadily over many small iterations/deliverables.
+I've spent over a decade building desktop and web applications for various industries.
 
 I've delivered software solutions by myself, and as a member of small teams.
 
-I have experience with large web frameworks, but am comfortable building a toolbox out of composable libraries.  I have worked with various database systems, but spend the most time with MySQL.
+I prefer to work as a project manager/developer, interacting directly with customers and translating business requirements into deliverables with the help of my peers.
 
 ## Previous employers
+
+Since 2017 I have worked as a freelancer, mostly serving clients in the publishing and customer service industries.
 
 ### Cake (consumer software), 2016-2017 (remote)
 
@@ -29,19 +31,19 @@ With two other developers, added features and fixed bugs to get the node.js/Expr
 
 In roughly chronological order:
 
-* Performed maintenance and feature development for an inventory/point of sale application built with C++/MySQL
-* Wrote a minimal CRM tool for internal support use, using PHP and MySQL
-* Wrote an AJAX-based clock-in system with a PHP/MySQL back-end
-* Worked with partner customers to develop an enterprise application, writing specifications and delivering features
-* Developed a push-based replication tool for MySQL databases
+* Maintenance and feature development for an inventory/point of sale application built with C++/MySQL
+* Made a minimal CRM tool for internal support use, using PHP and MySQL
+* Made a time-tracking system with a PHP/MySQL back-end
+* Worked with partner customers to develop an enterprise application for the heavy truck parts industry
+* Made a push-based replication tool for MySQL databases
 * Became lead developer/designer of legacy Windows application
 * Codified standards for internal documentation in the company wiki, curating and maintaining all input
-* Developed an XMPP chatbot for use in company chat rooms using C++/Gloox
-* Developed an application for performing queries directly against Quickbooks company files
-* Developed a prototype for a PhoneGap-capable mobile version of parts search portal [HeavyTruckParts.net](https://www.heavytruckparts.net) with jQuery Mobile, PHP, TinyMVC
-* Developed a web application for enterprise inventory software, for use on mobile hardware with barcode scanners
-* Developed a client framework in JavaScript capable of running in Windows CE's IE6, and Safari Mobile
-* Developed API frameworks for the server-side in both PHP and JavaScript (using node.js)
+* Made an XMPP chatbot for use in company chat rooms using C++/Gloox
+* Made an application for performing queries directly against Quickbooks company files
+* Made a prototype for a PhoneGap-capable mobile version of parts search portal [HeavyTruckParts.net](https://www.heavytruckparts.net) with jQuery Mobile, PHP, TinyMVC
+* Made a web application for enterprise inventory software, for use on mobile hardware with barcode scanners
+* Made a client framework in JavaScript capable of running in Windows CE's IE6, and Safari Mobile
+* Made API frameworks for the server-side in both PHP and JavaScript (using node.js)
 
 As the sole phone support tech during my first year at ISoft:
 
@@ -59,41 +61,24 @@ As the sole phone support tech during my first year at ISoft:
 
 ### Larger projects
 
-* [Noddity](https://github.com/TehShrike/noddity), a client-side wiki/blog framework
+* [SpyfallX](https://github.com/tehshrike/spyfallx), an implementation of a popular tabletop party game
 * [abstract-state-router](https://github.com/TehShrike/abstract-state-router), a framework-agnostic nested state router for web applications
 * [susdsearch.com](https://github.com/TehShrike/susd-search-site), an improved search site for some of my favorite reviewers
-* [communalchecklist.com](https://github.com/TehShrike/communal-checklist), a low-friction gift registry/checklist
+* [Canon Reader](https://github.com/TehShrike/canon-reader), a Bible reader
+
 
 <div class="no-print">
 
 ### An arbitrary selection of my smaller libraries
 
 * [sql-concat](https://github.com/TehShrike/sql-concat), for building SQL statements programmatically
-* [financial-arithmeticator](https://github.com/TehShrike/financial-arithmeticator), for arbitrary-precision arithmetic on financial values
-* [mannish](https://github.com/TehShrike/mannish), a mediator focused on reducing coupling between stateful modules in larger apps
-
-For a more complete list of libraries I've published, see [tehshrike.github.io](https://tehshrike.github.io/).
-
-### Writings
-
-I have written a few posts related to my software projects:
-
-* [Writing Noddity](https://joshduff.com/2014-11-22-noddity.md)
-* [Why your webapp needs a state-based router](https://joshduff.com/2015-06-why-you-need-a-state-router.md)
-* [Side project post-partum: Communal Checklist](https://joshduff.com/2015-09-communal-checklist.md)
-* [Writing SQL for applications](https://joshduff.com/2016-07-writing-sql.md)
+* [financial-number](https://github.com/TehShrike/financial-number), for arbitrary-precision arithmetic on financial values
+* [regex-fun](https://github.com/TehShrike/regex-fun), for writing maintainable regular expressions
+* [sheetsy](https://github.com/TehShrike/sheetsy), for using Google Sheets as a low-friction CMS
 
 </div>
 
-<div class="print-only">
-
-### Other
-
-- Over a hundred packages published to npm
-- Thousands of lines of code published under an open license ([tehshrike.github.io](https://tehshrike.github.io/))
-- Retrospectives of projects and explanation for tech problems at [joshduff.com](https://joshduff.com)
-
-</div>
+Plus [many more libraries](https://github.com/search?o=desc&q=user%3ATehShrike&s=stars&type=Repositories).
 
 ## Familiar Technologies
 
@@ -104,16 +89,15 @@ Delivered products/features using:
 	* AngularJS
 	* React
 	* Redux
+	* Svelte
 	* Express
 	* Koa
 * Java
 * PHP
 * C++
-* MySQL
-* SQLite
-* ElasticSearch
-* Redis
-
-<p class="no-print">
-	I'm particularly interested in the chance to work with Clojure, Elm, Elixir, or other languages focused on simplicity through pure functions.
-</p>
+* Databases
+	* MySQL
+	* SQLite
+	* ElasticSearch
+	* Redis
+* CircleCI
