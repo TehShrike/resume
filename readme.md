@@ -61,10 +61,10 @@ As the sole phone support tech during my first year at ISoft:
 
 ### Larger projects
 
-* [SpyfallX](https://github.com/tehshrike/spyfallx), an implementation of a popular tabletop party game
+* [spyfallx.com](https://github.com/tehshrike/spyfallx), an implementation of a popular tabletop party game
 * [abstract-state-router](https://github.com/TehShrike/abstract-state-router), a framework-agnostic nested state router for web applications
 * [susdsearch.com](https://github.com/TehShrike/susd-search-site), an improved search site for some of my favorite reviewers
-* [Canon Reader](https://github.com/TehShrike/canon-reader), a Bible reader
+* [canonreader.com](https://github.com/TehShrike/canon-reader), a Bible reader
 
 
 <div class="no-print">
@@ -78,7 +78,7 @@ As the sole phone support tech during my first year at ISoft:
 
 </div>
 
-Plus [many more libraries](https://github.com/search?o=desc&q=user%3ATehShrike&s=stars&type=Repositories).
+Plus [hundreds of other JS libraries on GitHub](https://github.com/search?o=desc&q=user%3ATehShrike&s=stars&type=Repositories).
 
 ## Familiar Technologies
 
