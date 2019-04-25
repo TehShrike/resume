@@ -4,16 +4,19 @@
 
 /* Heavily stolen from http://pixyll.com/ */
 
-body {
-	width: 100%;
-}
-
 #content {
 	margin: 0 auto;
 	max-width: 42rem;
+	padding: 16px;
 }
 
-body { color: #333; background-color: white; }
+body {
+	color: #333;
+	background-color: white;
+	font-family: "Merriweather", "PT Serif", Georgia, "Times New Roman", serif;
+	line-height: 1.5;
+	font-size: 100%;
+}
 
 a {
   color: #0076df;
@@ -46,8 +49,6 @@ h4 { font-size: 1rem; }
 h5 { font-size: 0.875rem; }
 
 h6 { font-size: 0.75rem; }
-
-body { font-family: "Merriweather", "PT Serif", Georgia, "Times New Roman", serif; line-height: 1.5; font-size: 100%; }
 
 h1, h2, h3, h4, h5, h6 { font-family: "Lato", "Helvetica Neue", Helvetica, sans-serif; font-weight: 900; line-height: 1.25; margin-top: 1em; margin-bottom: .5em; }
 
