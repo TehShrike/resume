@@ -1,5 +1,4 @@
-Josh Duff
-=====
+# Josh Duff
 
 <p class="print-top-right">
 	<a href="mailto:me@JoshDuff.com">me@JoshDuff.com</a>
@@ -13,7 +12,11 @@ I prefer to work as a project manager/developer, interacting directly with custo
 
 ## Previous employers
 
-Since 2017 I have worked as a freelancer, mostly serving clients in the publishing and customer service industries.
+### EquipmentShare (heavy construction equipment industry), 2019-current
+
+### Duff Ventures (consulting) 2017-2019
+
+I worked as a freelancer, mostly serving clients in the publishing and customer service industries.
 
 ### Cake (consumer software), 2016-2017 (remote)
 
