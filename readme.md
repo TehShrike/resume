@@ -12,7 +12,7 @@ I prefer to work as a project manager/developer, interacting directly with custo
 
 ## Previous employers
 
-### EquipmentShare (heavy construction equipment industry), 2019-current
+### EquipmentShare (heavy construction equipment industry), 2019-2020
 
 ### Duff Ventures (consulting) 2017-2019
 
