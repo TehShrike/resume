@@ -10,9 +10,21 @@ I've delivered software solutions by myself, and as a member of small teams.
 
 I prefer to work as a project manager/developer, interacting directly with customers and translating business requirements into deliverables with the help of my peers.
 
+I like to work on boring-sounding business software that people use to get their jobs done.
+
 ## Previous employers
 
+### Workshop (internal communications) 2023-current
+
+Developed an email editor to replace a third-party whitelabeled editor.
+
+### T.Rex Arms (ecommerce, fulfillment, manufacturing in the firearm accessories industry), 2020-2023
+
+Worked primarily on the internal software that coordinated inventory, sales, fulfillment, customer service, manufacturing.
+
 ### EquipmentShare (heavy construction equipment industry), 2019-2020
+
+Developed the front-end of a payroll administration webapp.
 
 ### Duff Ventures (consulting) 2017-2019
 
@@ -95,6 +107,7 @@ Delivered products/features using:
 	* Svelte
 	* Express
 	* Koa
+	* Vue
 * Java
 * PHP
 * C++
