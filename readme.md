@@ -86,10 +86,10 @@ As the sole phone support tech during my first year at ISoft:
 
 ### An arbitrary selection of my smaller libraries
 
+* [classy-graph](https://tehshrike.github.io/classy-graph/), an exercise in "data-ink maximization" inspired by Edward Tufte.
 * [sql-concat](https://github.com/TehShrike/sql-concat), for building SQL statements programmatically
 * [financial-number](https://github.com/TehShrike/financial-number), for arbitrary-precision arithmetic on financial values
 * [regex-fun](https://github.com/TehShrike/regex-fun), for writing maintainable regular expressions
-* [sheetsy](https://github.com/TehShrike/sheetsy), for using Google Sheets as a low-friction CMS
 
 </div>
 
