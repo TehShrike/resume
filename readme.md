@@ -4,13 +4,11 @@
 	<a href="mailto:me@JoshDuff.com">me@JoshDuff.com</a>
 </p>
 
-I've spent over a decade building desktop and web applications for various industries.
-
-I've delivered software solutions by myself, and as a member of small teams.
-
-I prefer to work as a project manager/developer, interacting directly with customers and translating business requirements into deliverables with the help of my peers.
-
 I like to work on boring-sounding business software that people use to get their jobs done.
+
+I prefer to work as a project manager+developer, interacting directly with customers and translating business requirements into deliverables.
+
+I've worked for employers with 10-40 developers that shipped buggy software slowly.  I've worked for employers with 2-4 developers that shipped great software reliably.  I prefer the latter.
 
 ## Previous employers
 
