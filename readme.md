@@ -22,7 +22,7 @@ Worked primarily on the internal software that coordinated inventory, sales, ful
 
 ### EquipmentShare (heavy construction equipment industry), 2019-2020
 
-Developed the front-end of a payroll administration webapp.
+Developed the front-end of a payroll administration webapp.  My team worked on time-tracking for truck drivers: the truckers used a mobile app to log their time for [compliance](https://www.fmcsa.dot.gov/regulations/hours-service/summary-hours-service-regulations) and payroll purposes.  I built out the front-end webapp used by company administrators.
 
 ### Duff Ventures (consulting) 2017-2019
 
@@ -30,7 +30,7 @@ I worked as a freelancer, mostly serving clients in the publishing and customer 
 
 ### Cake (consumer software), 2016-2017 (remote)
 
-With two other developers, added features and fixed bugs to get the node.js/Express/React app [Cake](https://cake.co/) closer to shipping.
+With two other developers, added features and fixed bugs to get a node.js/Express/React app (a forum-based social network, now defunct) closer to shipping.
 
 ### eDataSource (email marketing industry), 2013-2016 (remote)
 
