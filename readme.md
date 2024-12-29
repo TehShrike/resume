@@ -14,25 +14,37 @@ I've worked for employers with lots of developers that shipped buggy software sl
 
 ### Workshop (internal communications) 2023-current
 
+*TypeScript, Vue, Postgres, Cloudflare Workers*
+
 Developed an email editor to replace a third-party whitelabeled editor.
 
 ### T.Rex Arms (ecommerce, fulfillment, manufacturing in the firearm accessories industry), 2020-2023
+
+*TypeScript, Svelte, MySQL, Cloudflare Workers, node.js*
 
 Worked primarily on the internal software that coordinated inventory, sales, fulfillment, customer service, manufacturing.
 
 ### EquipmentShare (heavy construction equipment industry), 2019-2020
 
+*TypeScript, lit-html*
+
 Developed the front-end of a payroll administration webapp.  My team worked on time-tracking for truck drivers: the truckers used a mobile app to log their time for [compliance](https://www.fmcsa.dot.gov/regulations/hours-service/summary-hours-service-regulations) and payroll purposes.  I built out the front-end webapp used by company administrators.
 
 ### Duff Ventures (consulting) 2017-2019
+
+*TypeScript, Svelte, node.js*
 
 I worked as a freelancer, mostly serving clients in the publishing and customer service industries.
 
 ### Cake (consumer software), 2016-2017 (remote)
 
+*TypeScript, React, MySQL*
+
 With two other developers, added features and fixed bugs to get a node.js/Express/React app (a forum-based social network, now defunct) closer to shipping.
 
 ### eDataSource (email marketing industry), 2013-2016 (remote)
+
+*Java, AngularJS, MySQL/RDS/Aurora, Hadoop/Apache Pig*
 
 * With a team of 3-4 developers:
   * Built and maintained a distributed Java application that processes millions of emails per day, indexing the commercial email campaigns and storing the results in MySQL and ElasticSearch
@@ -41,6 +53,8 @@ With two other developers, added features and fixed bugs to get a node.js/Expres
 * Built the internal admin site used to manage the domain/brand/company taxonomy, and administrate client user accounts
 
 ### ISoft Data Systems (car parts and heavy truck parts industries), 2005-2013
+
+*C++, MFC, MySQL, JavaScript, PHP, node.js*
 
 In roughly chronological order:
 
