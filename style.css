@@ -20,11 +20,14 @@ body {
 
 a {
   color: #0076df;
-  text-decoration: none;
 }
 
 a:visited {
 	color: #00488a;
+}
+
+a.no-underline-ever {
+	text-decoration: none;
 }
 
 a:hover, a:focus, a:active {

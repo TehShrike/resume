@@ -17,12 +17,11 @@
 	}
 
 	a {
-		color: #333;
 		text-decoration: none;
 	}
 
 	a:visited {
-		color: #333;
+		color: #0076df;
 	}
 
 	#content {

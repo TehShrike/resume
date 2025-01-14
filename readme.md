@@ -1,7 +1,7 @@
-# Josh Duff
+# <a href="https://joshduff.com" class=no-underline-ever>Josh Duff</a>
 
 <p class="print-top-right">
-	<a href="mailto:me@JoshDuff.com">me@JoshDuff.com</a>
+	<a href="mailto:me@JoshDuff.com" class=no-underline-ever>me@JoshDuff.com</a>
 </p>
 
 I like to work on boring-sounding business software that people use to get their jobs done.
