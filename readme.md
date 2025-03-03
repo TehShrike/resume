@@ -10,6 +10,8 @@ I prefer to work as a project manager+developer, interacting directly with custo
 
 I've worked for employers with lots of developers that shipped buggy software slowly.  I've worked on small teams that shipped great software reliably.  I prefer the latter.
 
+I've been working remote since 2013, though I've appreciated working once a week from coffee shops with nearby coworkers at a couple of jobs.
+
 ## Previous employers
 
 ### Workshop (internal communications) 2023-current
@@ -36,13 +38,13 @@ Developed the front-end of a payroll administration webapp.  My team worked on t
 
 I worked as a freelancer, mostly serving clients in the publishing and customer service industries.
 
-### Cake (consumer software), 2016-2017 (remote)
+### Cake (consumer software), 2016-2017
 
 *TypeScript, React, MySQL*
 
 With two other developers, added features and fixed bugs to get a node.js/Express/React app (a forum-based social network, now defunct) closer to shipping.
 
-### eDataSource (email marketing industry), 2013-2016 (remote)
+### eDataSource (email marketing industry), 2013-2016
 
 *Java, AngularJS, MySQL/RDS/Aurora, Hadoop/Apache Pig*
 
