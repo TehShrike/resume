@@ -6,7 +6,7 @@
 
 I like to work on boring-sounding business software that people use to get their jobs done.
 
-I prefer to work as a project manager+developer, interacting directly with customers and translating business requirements into deliverables.
+I prefer to work as a product manager+developer, interacting directly with customers and translating business requirements into deliverables.
 
 I've worked for employers with lots of developers that shipped buggy software slowly.  I've worked on small teams that shipped great software reliably.  I prefer the latter.
 
