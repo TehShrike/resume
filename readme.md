@@ -18,7 +18,7 @@ I've been working remote since 2013, though I've appreciated working once a week
 
 *TypeScript, Vue, Postgres, Cloudflare Workers*
 
-Developed an email editor to replace a third-party whitelabeled editor.
+Developed an email editor (think the interface you use to create emails in MailChimp or similar marketing email senders) to replace a third-party whitelabeled editor.
 
 ### T.Rex Arms (ecommerce, fulfillment, manufacturing in the firearm accessories industry), 2020-2023
 
@@ -26,17 +26,27 @@ Developed an email editor to replace a third-party whitelabeled editor.
 
 Worked primarily on the internal software that coordinated inventory, sales, fulfillment, customer service, manufacturing.
 
+- Developed queue-based task workers to integrate with Quickbooks and other third-parties
+- Developed a barcode-scanner interface for warehouse workers to audit inventory, move inventory.  Eyes-free, tolerant to loss of internet or server downtime, all business logic server-side.
+- Developed the [storefront interface for a holster picker](https://www.trex-arms.com/store/trex-arms-sidecar-holster/), with every color+pistol+light combination driving manufacturing details in the backend
+- Developed a work order system
+
 ### EquipmentShare (heavy construction equipment industry), 2019-2020
 
 *TypeScript, lit-html*
 
-Developed the front-end of a payroll administration webapp.  My team worked on time-tracking for truck drivers: the truckers used a mobile app to log their time for [compliance](https://www.fmcsa.dot.gov/regulations/hours-service/summary-hours-service-regulations) and payroll purposes.  I built out the front-end webapp used by company administrators.
+Developed the front-end of a payroll administration webapp.  My team worked on time-tracking for truck drivers: the truckers used a mobile app to log their time for [compliance](https://www.fmcsa.dot.gov/regulations/hours-service/summary-hours-service-regulations) and payroll purposes.
+
+I built out the front-end webapp used by company administrators.  Got used to solving [unnecessarily difficult timezone problems](https://gist.github.com/TehShrike/61ea0820354df2d4d56f5a102623e4de) with the JS Date API.  Published a pretty good [date range selector](https://github.com/EquipmentShare/date-range-input).
 
 ### Duff Ventures (consulting) 2017-2019
 
 *TypeScript, Svelte, node.js*
 
-I worked as a freelancer, mostly serving clients in the publishing and customer service industries.
+I worked as a freelancer, mostly serving clients in the publishing and customer service industries.  Highlights included:
+
+- Building a markdown->[Leanpub](https://leanpub.com/) CI publishing pipeline, including book linting
+- Getting screensharing to work for nested iframes in [Median Cobrowse](https://www.hellomedian.com)
 
 ### Cake (consumer software), 2016-2017
 
