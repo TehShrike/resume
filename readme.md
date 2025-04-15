@@ -45,7 +45,7 @@ I built out the front-end webapp used by company administrators.  Got used to so
 
 I worked as a freelancer, mostly serving clients in the publishing and customer service industries.  Highlights included:
 
-- Building a markdown->[Leanpub](https://leanpub.com/) CI publishing pipeline, including book linting
+- Building a markdown→[Leanpub](https://leanpub.com/) CI publishing pipeline, including book linting
 - Getting screensharing to work for nested iframes in [Median Cobrowse](https://www.hellomedian.com)
 
 ### Cake (consumer software), 2016-2017
