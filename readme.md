@@ -14,7 +14,13 @@ I've been working remote since 2013, though I've appreciated working once a week
 
 ## Previous employers
 
-### Workshop (internal communications) 2023-current
+### Profab (printed circuit board manufacturer) 2024-current
+
+*TypeScript, React, MySQL*
+
+Developed a purchasing system to order the parts needed to satisfy a bill of materials from multiple vendors, optimizing for price, lead time, attrition, etc.
+
+### Workshop (internal communications) 2023-2024
 
 *TypeScript, Vue, Postgres, Cloudflare Workers*
 
