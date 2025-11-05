@@ -14,11 +14,12 @@ I've been working remote since 2013, though I've appreciated working once a week
 
 ## Previous employers
 
-### Profab (printed circuit board manufacturer) 2025-current
+### Duff Ventures (contracting) 2025-current
 
-*TypeScript, React, MySQL*
+*TypeScript, React, Svelte, MySQL*
 
-Developed a purchasing system to order the parts needed to satisfy a bill of materials from multiple vendors, optimizing for price, lead time, attrition, etc.
+- For a printed circuit board manufacturer: developed a purchasing system to order the parts needed to satisfy a bill of materials from multiple vendors, optimizing for price, lead time, attrition, etc.
+- For an arborist: developed an instant estimate system for lead generation
 
 ### Workshop (internal communications) 2023-2025
 
