@@ -46,7 +46,7 @@ Developed the front-end of a payroll administration webapp.  My team worked on t
 
 I built out the front-end webapp used by company administrators.  Got used to solving [unnecessarily difficult timezone problems](https://gist.github.com/TehShrike/61ea0820354df2d4d56f5a102623e4de) with the JS Date API.  Published a pretty good [date range selector](https://github.com/EquipmentShare/date-range-input).
 
-### Duff Ventures (consulting) 2017-2019
+### Duff Ventures (contracting) 2017-2019
 
 *TypeScript, Svelte, node.js*
 
