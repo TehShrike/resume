@@ -4,7 +4,9 @@
   "version": "1.0.0",
   "scripts": {
     "build": "node build.js",
-    "watch": "watch \"npm run build\" ./"
+    "watch": "watchlist . --ignore=\\.html -- npm run build",
+    "dev": "npm-run-all build --parallel watch serve",
+    "serve": "live-server --no-css-inject"
   },
   "repository": {
     "type": "git",
@@ -20,6 +22,8 @@
     "remarkable": "1.7.1"
   },
   "devDependencies": {
-    "watch": "1.0.2"
+    "live-server": "^1.2.2",
+    "npm-run-all": "^4.1.5",
+    "watchlist": "^0.3.1"
   }
 }
