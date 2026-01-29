@@ -80,3 +80,7 @@ blockquote, blockquote p { font-size: 1.25rem; font-style: italic; }
 @media screen and (min-width: 48em) { html { font-size: 18px; } }
 @media screen and (min-width: 64em) { html { font-size: 20px; } }
 @media screen and (min-width: 78em) { em img { max-width: 56rem; margin-left: -7em; } }
+
+.two-columns {
+	column-count: 2;
+}
