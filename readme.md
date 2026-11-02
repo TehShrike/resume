@@ -46,20 +46,14 @@ Developed the front-end of a payroll administration webapp.  My team worked on t
 
 I built out the front-end webapp used by company administrators.  Solved [unnecessarily difficult timezone problems](https://gist.github.com/TehShrike/61ea0820354df2d4d56f5a102623e4de) with the JS Date API.  Published a pretty good [date range selector](https://github.com/EquipmentShare/date-range-input).
 
-### Duff Ventures (contracting) 2017-2019
+### Duff Ventures (contracting) 2016-2019
 
-*TypeScript, Svelte, node.js*
+*TypeScript, Svelte, React, node.js*
 
 Freelanced for clients in the publishing and customer service industries.  Highlights included:
 
 - Building a markdown→[Leanpub](https://leanpub.com/) CI publishing pipeline, including book linting
 - Getting screensharing to work for nested iframes in [Median Cobrowse](https://www.hellomedian.com)
-
-### Cake (consumer software), 2016-2017
-
-*TypeScript, React, MySQL*
-
-With two other developers, added features and fixed bugs to get a node.js/Express/React app (a forum-based social network, now defunct) closer to shipping.
 
 ### eDataSource (email marketing industry), 2013-2016
 
